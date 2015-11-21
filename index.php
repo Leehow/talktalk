@@ -18,5 +18,5 @@ if ($p=='index'){
     
 }
 
-
+error_reporting(E_ALL);
 ?>
